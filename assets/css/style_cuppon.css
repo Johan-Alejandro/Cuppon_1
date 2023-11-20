@@ -1,0 +1,37 @@
+nav {
+    background-color: #28A745;
+}
+
+h5 {
+    font-family: 'Roboto light', sans-serif;
+    font-size: 21px;
+    color: #212529;
+}
+.direccion{
+    display: inline;
+    font-family: 'Roboto,Light', sans-serif;
+    color: #707070;
+    font-size: 12pt;
+}
+.precio{
+    font-family: 'Roboto light', sans-serif;
+    font-size: 16px;
+    color: #707070;
+    padding: 4px;
+}
+.cupon {
+    font-family: 'Roboto medium', sans-serif;
+    font-size: 26px;
+    color: #28A745;
+}
+.card-text {
+    color: #707070;
+}
+hr{
+    margin: 1rem;
+}
+h3 {
+    font-family: 'Roboto medium', sans-serif;
+    color:#FFFFFF;
+    font-size: 21px;
+}
